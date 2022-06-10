@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My first Calcuiator",
+  "main": "cal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Haseeb Dar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0"
+  }
+}
